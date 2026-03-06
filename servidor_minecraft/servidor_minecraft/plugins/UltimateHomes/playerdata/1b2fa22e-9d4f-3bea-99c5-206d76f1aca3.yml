@@ -1,0 +1,18 @@
+player:
+  info:
+    lastSeenAs: TheKingDragon_YT
+homes:
+  aldea:
+    x: -457
+    y: 64
+    z: 679
+    yaw: 120.21344
+    pitch: 11.4800625
+    world: world
+  base:
+    x: -213
+    y: 71
+    z: -74
+    yaw: -11.8289795
+    pitch: 11.700467
+    world: world

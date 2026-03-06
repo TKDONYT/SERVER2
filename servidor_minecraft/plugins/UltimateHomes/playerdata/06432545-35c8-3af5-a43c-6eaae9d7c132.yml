@@ -1,0 +1,25 @@
+player:
+  info:
+    lastSeenAs: IamAtomic0
+homes:
+  garden:
+    x: -618
+    y: 69
+    z: -556
+    yaw: 170.25027
+    pitch: 34.79994
+    world: world
+  home:
+    x: -614
+    y: 68
+    z: -567
+    yaw: -103.04845
+    pitch: 18.450006
+    world: world
+  alpha:
+    x: -617
+    y: 68
+    z: -559
+    yaw: 108.2876
+    pitch: 5.0998983
+    world: world

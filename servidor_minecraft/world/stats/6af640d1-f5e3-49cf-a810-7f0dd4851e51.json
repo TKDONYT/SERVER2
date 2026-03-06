@@ -1,0 +1,28 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:sand": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1624,
+      "minecraft:time_since_rest": 2550,
+      "minecraft:walk_one_cm": 2882,
+      "minecraft:total_world_time": 2550,
+      "minecraft:leave_game": 3,
+      "minecraft:fly_one_cm": 2158,
+      "minecraft:play_time": 2550,
+      "minecraft:jump": 14,
+      "minecraft:time_since_death": 2550
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 6,
+      "minecraft:sand": 2,
+      "minecraft:bush": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:sand": 1,
+      "minecraft:wheat_seeds": 1
+    }
+  },
+  "DataVersion": 4671
+}

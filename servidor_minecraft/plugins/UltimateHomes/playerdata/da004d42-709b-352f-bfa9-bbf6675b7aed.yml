@@ -1,0 +1,11 @@
+player:
+  info:
+    lastSeenAs: Meta_24
+homes:
+  casa:
+    x: -498
+    y: 71
+    z: 704
+    yaw: 91.49988
+    pitch: 7.7604213
+    world: world
